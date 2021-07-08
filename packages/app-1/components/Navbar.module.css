@@ -1,0 +1,11 @@
+.navbar {
+  background-color: blueviolet;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  height: 2.5rem;
+}

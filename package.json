@@ -1,0 +1,21 @@
+{
+  "name": "next-mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "@types/react": "^17.0.13",
+    "next-transpile-modules": "^8.0.0",
+    "typescript": "^4.3.5"
+  }
+}

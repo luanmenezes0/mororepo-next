@@ -1,0 +1,11 @@
+.navbar {
+  background-color: rebeccapurple;
+  color: white;
+  height: 4rem;
+  display: grid;
+  place-content: center;
+}
+
+.title {
+  margin: 0;
+}
